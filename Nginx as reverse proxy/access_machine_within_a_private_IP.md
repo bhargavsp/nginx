@@ -1,0 +1,2 @@
+# If you have a private network where only one machine can be accessed from the outside world, you can use Nginx as reverse proxy to allow access to any machine on your network!
+https://www.youtube.com/watch?v=AOmw6pl7iWk
